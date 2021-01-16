@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 100%;
+  height: 70px;
+  background-color: #878787;
+  /* position:fixed; */
+}
+h1 {
+  position: absolute;
+  padding: 3px;
+  float: left;
+  margin-left: 2%;
+  margin-top: 20px;
+  color: #39ca74;
+}
+ul {
+  width: auto;
+  float: right;
+  margin-top:7px;
+
+}
+li {
+  display: inline-block;
+  padding:15px 30px;
+  
+ 
+}
+a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.3rem;
+  color:#fff;
+}
+a:hover{
+    color:#82c52b;
+}
+img{
+    width:100%;
+}

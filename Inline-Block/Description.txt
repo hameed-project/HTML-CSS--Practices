@@ -1,0 +1,3 @@
+Description-Task :
+Purpose of inline-block in html.
+Developed by : @Shahul-Hameed-2021
